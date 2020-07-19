@@ -15,5 +15,3 @@ class Shoe
     shoe.condition
   end
 end
-
-  
