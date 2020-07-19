@@ -1,6 +1,6 @@
 class Shoe
   attr_accessor :brand, :color, :size, :material, :condition
-  attr_reader :title
+  attr_reader :cobble
 
   def initialize(title)
     @title = title
