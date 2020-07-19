@@ -18,3 +18,5 @@ class Shoe
     @condition = new_condition
   end
 end
+
+shoe.condition = "new"
